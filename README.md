@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vuex & One Way Data Flow
 
 Haideti sa descriem urmatorul scenariu: Avem o aplicatie cu 3 componente, iar fiecare are in functia created() (_reminder: functia created() se apeleaza cand se initializeaza componenta pe pagina_ ) un apel catre un api prin care trage fiecare un set de date. Fiecare componenta isi prelucreaza datele in cadrul proprului context:
@@ -288,3 +289,6 @@ Creati un **NOU** modul in store care sa indeplineasca urmatoarele cerinte:
 * Pe pagina _Images_ afisati intr-o lista imaginile in sine
 * Datele trebuie cachuite. Nu trebuie sa se dea requestul de mai multe ori
 * Scrieti o functie care sa stearga ultima imagine/titlu din lista (doar in aplicatie, **NU** trebuie dat request la server)
+=======
+# Tema-vuex
+>>>>>>> 5460fe40087ab9100105efd7ddfdf2c358d25878
